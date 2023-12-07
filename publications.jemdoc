@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU} {publications.html}
+
+= Publications (during PhD period)
+
+== Journal Papers
+- Joost Jeschke, *Dingshan Sun*, Anahita Jamshidnejad, Bart De Schutter. [https://www.sciencedirect.com/science/article/pii/S0967066122002623/ Grammatical-evolution-based parameterized model predictive control for urban traffic networks], /Control Engineering Practice/, vol. 132, p. 105431, 2023. (Co-first author and corresponding author)
+- Anahita Jamshidnejad, *Dingshan Sun*, Antonella Ferrara, Bart De Schutter. [https://www.sciencedirect.com/science/article/pii/S0968090X23003236/ A novel bi-level temporally-distributed MPC approach: An application to green urban mobility], /Transportation Research Part C: Emerging Technologies/, 156, 104334. (Co-first author)
+- *Dingshan Sun*, Anahita Jamshidnejad, Bart De Schutter. [https://drive.google.com/file/d/19Gz6ffk3bm8PO7QLXj9WCFH-dT7r4IRr/view/ A novel framework combining MPC and deep reinforcement learning with application to freeway traffic control], manuscript under minor revision for /IEEE Transactions on Intelligent Transportation Systems/, 2023.
+- *Dingshan Sun*, Anahita Jamshidnejad, Bart De Schutter. Adaptive parameterized model predictive control based on reinforcement learning: A synthesis framework, manuscript submitted to /Engineering Applications of Artificial Intelligence/.
+== Conference Papers
+- Willemijn Remmerswaal, *Dingshan Sun*, Anahita Jamshidnejad, Bart De Schutter. [https://ieeexplore.ieee.org/document/9931771/ Combined MPC and reinforcement learning for traffic signal control in urban traffic networks], 26th /International Conference on System Theory, Control and Computing (ICSTCC)/, Sinaia, Romania, pp. 432-439, October, 2022.
+- *Dingshan Sun*, Anahita Jamshidnejad, Bart De Schutter. Optimal sub-references for setpoint tracking: A multi-level MPC approach, /The 22nd World Congress of the International Federation of Automatic Control (IFAC WC)/, Yokohama, Japan, July, 2023.
+- *Dingshan Sun*, Anahita Jamshidnejad, Bart De Schutter. Adaptive parameterized control for coordinated traffic management using reinforcement learning, /The 22nd World Congress of the International Federation of Automatic Control (IFAC WC)/, Yokohama, Japan, July, 2023.
